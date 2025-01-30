@@ -1,6 +1,5 @@
 # 🚀 **Shivam Gaur** | **Frontend & MERN Stack Developer**
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
 💻 **Crafting Code | Innovating Interfaces | Elevating Experiences**  
 🌟 **Passionate Problem-Solver** | **Open Source Enthusiast** | **Content Creator**
