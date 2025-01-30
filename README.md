@@ -20,6 +20,6 @@
 
 ## 📫 **Let's Connect!**  
 💼 **Portfolio:** _Coming Soon_  
-📩 **Email:** _your.email@example.com_  
-🐦 **Twitter/X:** [_@yourhandle_](#)  
+📩 **Email:** _shivamgaur24august@gmail.com_  
+🐦 **Linkedin/X:** [(https://www.linkedin.com/in/shivam-gaur-001b00253)]  
 📷 **Instagram:** [@ishivamgaur](https://www.instagram.com/ishivamgaur)  
