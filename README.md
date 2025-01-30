@@ -62,7 +62,7 @@ I specialize in **React.js, Tailwind CSS, JavaScript, Node.js, Express.js, Mongo
 |------------------|----------------------------------------|
 | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> | [@ishivamgaur](https://instagram.com/ishivamgaur) |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> | [@iamshivamgaur](https://github.com/iamshivamgaur) |
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> | [_Your Profile Here_](#) |
+| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> | [https://www.linkedin.com/in/shivam-gaur-001b00253/](#) |
 | <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> | _Coming Soon_ |
 
 ---
